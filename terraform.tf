@@ -2,7 +2,7 @@ terraform {
   cloud {
     organization = "f5networks-bd"
     workspaces {
-      name = "bigip-ingress-opa"
+      name = "bigip-ingress-opa1"
     }
   }
 
